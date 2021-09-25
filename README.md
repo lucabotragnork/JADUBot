@@ -9,7 +9,7 @@
   <a href="https://github.com/Ameen-ahd/JADUmon/fork">
     
   </a>
-  <a href="https://github.com/Ameen-ahd/JADUmon
+  <a href="https://github.com/lucabotragnork/JADUBot
   </a>
 </p>
 
